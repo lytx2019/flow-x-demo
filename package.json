@@ -19,6 +19,7 @@
       }
     ]
   },
+  "publisher": "lytx2019",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
